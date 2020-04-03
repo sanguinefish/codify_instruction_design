@@ -4,12 +4,12 @@ baseurl: /digifaire_copy/
 # Site settings
 title: Digifaire
 email: support@digifaire.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Copy writing for technology. Engaging the audience with immersive stories and product description and features."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Raju Basumatary
   pic: 1
   position: Lead Designer
   social:
@@ -45,20 +45,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/digifaire
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://facebook.com/simplyfluff
+  - title: quora
+    url: https://quora.com/q/codify
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/digifaire
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: Toronto
 
 # Build settings
 markdown: kramdown
